@@ -1,7 +1,7 @@
 # PittCSIOrientation
 Orientation for new CSI students
 
-老王实验室招聘信息：（不定期更新，实验室招满即删）
+老王实验室招聘信息：（不定期更新，实验室招满即删）2019年8月20日发布
 
 harilab秋季招人。我们lab是shrs school最好的几个lab之一，大老板是health informatics领域的权威专家， Department of Health Information Management的chairman。
 
